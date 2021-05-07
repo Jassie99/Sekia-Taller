@@ -1,0 +1,2 @@
+# Sekia-Taller
+Taller practico 
